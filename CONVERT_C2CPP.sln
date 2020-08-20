@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CONVERT_C2CPP", "CONVERT_C2CPP\CONVERT_C2CPP.vcxproj", "{3B27BD0B-3256-40C1-892E-99ED4BA24C87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B27BD0B-3256-40C1-892E-99ED4BA24C87}.Debug|x64.ActiveCfg = Debug|x64
+		{3B27BD0B-3256-40C1-892E-99ED4BA24C87}.Debug|x64.Build.0 = Debug|x64
+		{3B27BD0B-3256-40C1-892E-99ED4BA24C87}.Debug|x86.ActiveCfg = Debug|Win32
+		{3B27BD0B-3256-40C1-892E-99ED4BA24C87}.Debug|x86.Build.0 = Debug|Win32
+		{3B27BD0B-3256-40C1-892E-99ED4BA24C87}.Release|x64.ActiveCfg = Release|x64
+		{3B27BD0B-3256-40C1-892E-99ED4BA24C87}.Release|x64.Build.0 = Release|x64
+		{3B27BD0B-3256-40C1-892E-99ED4BA24C87}.Release|x86.ActiveCfg = Release|Win32
+		{3B27BD0B-3256-40C1-892E-99ED4BA24C87}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19F9018E-F1E3-4286-B33C-1C6928669980}
+	EndGlobalSection
+EndGlobal
